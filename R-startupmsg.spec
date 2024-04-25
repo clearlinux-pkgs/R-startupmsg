@@ -7,7 +7,7 @@
 #
 Name     : R-startupmsg
 Version  : 0.9.6.1
-Release  : 38
+Release  : 39
 URL      : https://cran.r-project.org/src/contrib/startupmsg_0.9.6.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/startupmsg_0.9.6.1.tar.gz
 Summary  : Utilities for Start-Up Messages
